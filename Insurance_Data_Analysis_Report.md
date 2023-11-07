@@ -1,4 +1,4 @@
-## Insurance Data Analysis Report
+# Insurance Data Analysis Report
 
 # Executive Summary
 This report presents a comprehensive analysis of simulated insurance data relevant to SIMU Insurance. The data encompasses key variables such as policyholder demographics, policy details, risk factors, claims history, and customer feedback. The analysis aims to extract actionable insights that could guide decision-making processes related to policy offerings, risk management, and customer satisfaction strategies.
