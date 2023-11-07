@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Import the data
-data = pd.read_csv('C:/Users/victo/Downloads/simulated_insurance_data.csv')
+data = pd.read_csv('C:/Users/victo/Downloads/simulated_insurance_data.csv') # Change path to the location of the downloaded simulated_insurance_data.csv 
 # Checking for missing values
 missing_values = data.isnull().sum()
 # Checking for duplicates
